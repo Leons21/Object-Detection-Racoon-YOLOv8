@@ -1,1 +1,4 @@
-Penggunaan YOLO v8 (Nano, Small, Medium) untuk mendeteksi hewan rakun.
+YOLO v8 for detecting Racoon.
+- Nano
+- Small
+- Medium
